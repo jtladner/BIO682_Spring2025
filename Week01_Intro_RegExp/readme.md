@@ -1,8 +1,8 @@
-# Class 1 - Jan. 19th 2024
+# Class 1 - Jan. 17th 2025
 - In this first class we will:
     - Discuss the syllabus and course organization/expectations
     - Troubleshoot computer setup problems
-    - Learn to use regular expressions to edit text files
+    - Learn to use regular expressions to edit plain text files
 
 ### Required Reading (**Must be completed ahead of time**)
 Practical Computing for Biologists, Chapters 1-3
@@ -41,7 +41,7 @@ Explore for "extra credit" or in the event that you finish all of the other exer
 
 [Regex Crossword](https://regexcrossword.com/)
 
-Copyright (C) 2024  Jason Ladner
+Copyright (C) 2025  Jason Ladner
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
