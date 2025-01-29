@@ -1,0 +1,11 @@
+Python script download site:
+https://github.com/jtladner/Scripts/blob/master/plotting/scatterplots.py
+
+BLAST download site:
+https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/ 
+
+BLAST Installation instructions:
+https://www.ncbi.nlm.nih.gov/books/NBK52640/ 
+
+FLASH website:
+https://ccb.jhu.edu/software/FLASH/
